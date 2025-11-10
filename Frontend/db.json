@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Rahul",
+      "email": "rahul@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Rohit Kumar",
+      "email": "rohit@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Ravi",
+      "email": "example@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Aman",
+      "email": "amantaycon@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Aman kushwaha",
+      "email": "amantaycon@gmail.com"
+    },
+    {
+      "id": "66ad"
+    },
+    {
+      "id": "ab60"
+    },
+    {
+      "id": "8c92"
+    },
+    {
+      "id": "fc2b"
+    }
+  ]
+}
